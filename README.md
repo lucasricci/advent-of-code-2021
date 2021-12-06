@@ -10,7 +10,7 @@ My [Advent of Code 2021](https://adventofcode.com) Python solutions here.
 | --------- | ---- |
 | Day  1    | x    |
 | Day  2    | x    |
-| Day  3    |      |     
+| Day  3    | x    |     
 | Day  4    |      |    
 | Day  5    |      |   
 | Day  6    |      |  
